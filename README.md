@@ -2,6 +2,8 @@ DexBoard - A Multi-DEX Analytics Dashboard
 
 A project built for GR14: Web3 Application General Purpose Bounty (Covalent) Hackathon.
 
+![dex-board](dex-board.png)
+
 Live at- https://dex-board.vercel.app/
 
 ## Purpose
